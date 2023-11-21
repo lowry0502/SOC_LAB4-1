@@ -1,5 +1,4 @@
-# SOC_LAB4-1
-# Execute FIR code in user BRAM
+# SOC_LAB4-1 - Execute FIR code in user BRAM
 ## Simulation for FIR
 ```sh
 cd ~/SOC_LAB4-1/testbench/counter_la_fir
